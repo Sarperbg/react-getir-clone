@@ -4,9 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.csshttps://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css')
-
-@layer base {
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css');
     html, body {
         font-family: 'Open Sans', sans-serif;
         @apply antialiased
